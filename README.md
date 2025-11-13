@@ -54,7 +54,7 @@ Some of the major SQL queries include:
 9. Repeat buyers and their subscription trends  
 10. Revenue contribution by age group  
 
-> 📄 SQL file: `customer_behavior sql queries.sql`
+> 📄 SQL file: `customer_behavior sql queries.sql"`
 
 ---
 
